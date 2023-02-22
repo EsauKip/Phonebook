@@ -15,10 +15,10 @@ export interface IContact {
 export class ContactsService {
 
   private contacts: IContact[] = [
-    { firstName: 'Mahesh', lastName: 'Chejarla', mobile: '9959100100', photo: '', whatsapp:true, popular: true },
-    { firstName: 'Pramod', lastName: 'Kamatham', mobile: '9959200200', photo: '',whatsapp:true, popular: false },
-    { firstName: 'Pream', lastName: 'Desh', mobile: '9959300200', photo: '',whatsapp:false, popular: true },
-    { firstName: 'Mahrsh', lastName: 'Heshe', mobile: '9959400400', photo: '',whatsapp:true, popular: false }
+    { firstName: 'Jose', lastName: 'muliro', mobile: '89976544', photo: '', whatsapp:true, popular: true },
+    { firstName: 'Barack', lastName: 'Kim', mobile: '243987654', photo: '',whatsapp:true, popular: false },
+    { firstName: 'Noel', lastName: 'Desh', mobile: '9959300200', photo: '',whatsapp:false, popular: true },
+    { firstName: 'ayuen', lastName: 'kiprop', mobile: '25400786655', photo: '',whatsapp:true, popular: false }
   ];
 
   getContacts(): IContact[] {
