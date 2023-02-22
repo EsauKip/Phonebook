@@ -19,11 +19,11 @@ import { EditContactComponent } from './components/edit-contact/edit-contact.com
 @NgModule({
   declarations: [
     AppComponent,
-    // NavbarComponent,
-    // AddContactComponent,
-    // ContactsComponent,
-    // SpeedDialComponent,
-    // EditContactComponent,
+    NavbarComponent,
+    AddContactComponent,
+    ContactsComponent,
+    SpeedDialComponent,
+    EditContactComponent,
   ],
   imports: [
     BrowserModule,
