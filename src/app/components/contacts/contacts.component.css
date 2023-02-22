@@ -1,0 +1,11 @@
+button[mat-fab] {
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+}
+.md-dialog-container {
+  background-color: #000;
+  width: 750px;
+  height:750px
+}
+.addBtn{position: absolute; z-index: 9999; top: 20px; right: 0;}
