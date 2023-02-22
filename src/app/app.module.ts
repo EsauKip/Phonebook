@@ -9,21 +9,21 @@ import { AppRoutingModule } from './app-routing.module';
 
 // Components
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './components/navbar/navbar.component';
-import { AddContactComponent } from './components/add-contact/add-contact.component';
-import { ContactsComponent } from './components/contacts/contacts.component';
-import { SpeedDialComponent } from './components/speed-dial/speed-dial.component';
-import { EditContactComponent } from './components/edit-contact/edit-contact.component';
+// import { NavbarComponent } from './components/navbar/navbar.component';
+// import { AddContactComponent } from './components/add-contact/add-contact.component';
+// import { ContactsComponent } from './components/contacts/contacts.component';
+// import { SpeedDialComponent } from './components/speed-dial/speed-dial.component';
+// import { EditContactComponent } from './components/edit-contact/edit-contact.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavbarComponent,
-    AddContactComponent,
-    ContactsComponent,
-    SpeedDialComponent,
-    EditContactComponent,
+    // NavbarComponent,
+    // AddContactComponent,
+    // ContactsComponent,
+    // SpeedDialComponent,
+    // EditContactComponent,
   ],
   imports: [
     BrowserModule,
